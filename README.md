@@ -7,7 +7,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="https://github.com/mohitkaninwal/portfolio/assets/89794081/90916d35-9b12-4304-a631-cd9ecb80476c"/>
 <img width="450px;" src="https://github.com/mohitkaninwal/portfolio/assets/89794081/40ff940f-944e-422e-af54-6a8efd827235"/>
 <img width="450px;" src="https://github.com/mohitkaninwal/portfolio/assets/89794081/3220b7c1-2660-4715-ad73-1b72568ce563"/>
-<img width="450px;" src="(https://github.com/mohitkaninwal/portfolio/assets/89794081/3e68d91c-2cb6-4a70-8cca-d0b5c0847263"/>
+<img width="450px;" src="https://github.com/mohitkaninwal/portfolio/assets/89794081/3e68d91c-2cb6-4a70-8cca-d0b5c0847263"/>
 <img width="450px;" src="https://github.com/mohitkaninwal/portfolio/assets/89794081/949531c1-176a-4b68-96ae-6b5222c60137"/>
 
 
